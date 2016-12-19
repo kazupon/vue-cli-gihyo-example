@@ -1,27 +1,31 @@
 # vue-cli-gihyo-example
 
-> A Vue.js project
+このリポジトリは、[「Vue.js入門 - 最速で作るシンプルなWebアプリケーション 第6回目」](http://gihyo.jp/dev/serial/01/vuejs/0006)の記事において使用したレポジトリです。
 
-## Build Setup
+## :warning: 注意事項
+あくまでも確認用レポジトリですので、実際の業務への使用はしないでください。
+
+## :hammer: 開発環境セットアップ
 
 ``` bash
-# install dependencies
+# 依存するモジュールのインストール
 npm install
 
-# serve with hot reload at localhost:8080
+# localhost:8080 でホットリロード可能なサーバの立ち上げ
 npm run dev
 
-# build for production with minification
+# プロダクション向けにミニファイル化してビルド
 npm run build
 
-# run unit tests
+# 単体テストの実行
 npm run unit
 
-# run e2e tests
+# E2Eテストの実行
 npm run e2e
 
-# run all tests
+# 全てのテストを実行
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## :copyright: ライセンス
+[MIT](http://opensource.org/licenses/MIT)
